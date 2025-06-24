@@ -3,7 +3,7 @@ import express from "express";
 import cors from "cors";
 
 var corsOptions = {
-  origin: "http://localhost:5173",
+  origin: "https://front-end-doctor-ali.netlify.app",
   optionsSuccessStatus: 200,
 };
 
